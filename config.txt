@@ -1,0 +1,13 @@
+NumCamadas 2
+NumEntradas 2
+NumSaidas 1
+NumIteracoes 10000
+pfa 1
+afa 1
+eta 0.01
+
+NumNeuroniosCamada[0] 2
+FuncaoAtivacaoCamada[0] 1
+
+NumNeuroniosCamada[1] 1
+FuncaoAtivacaoCamada[1] 2
