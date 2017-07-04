@@ -23,7 +23,7 @@ MultiLayer Perceptron with backpropagation algorithm
 	1 0 1
 	1 1 0
 
-Activation functions number
+## Activation functions number
 * Logistic 0
 * Tanh 1
 * Linear 2
